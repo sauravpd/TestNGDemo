@@ -4,11 +4,9 @@
 	<listeners>
 		<listener class-name="testNGDemo.sampleTestNGTest.CustomListener" />
 	</listeners>
-
 	<test name="CustomListenerTest">
 		<classes>
 			<class name="testNGDemo.sampleTestNGTest.SampleTest1" />
 		</classes>
-	</test> <!-- CustomListenerTest -->
-
+	</test> 
 </suite> <!-- Suite -->
