@@ -6,4 +6,4 @@
       <class name="testNGDemo.sampleTestNGTest.ParameterizedTest2"/>
     </classes>
   </test> <!-- ParameterizedTest2 -->
-</suite> <!-- Suite5 -->
+</suite>
