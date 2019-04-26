@@ -14,7 +14,7 @@ public class ExpectedExceptionTest
 	@Test(expectedExceptions=ArithmeticException.class)
 	public void test()
 	{
-		LOG.info("Expected Exception Test ");
+		LOG.info("Expected Exception Test");
 		int data=50/0;
 	}
 }
